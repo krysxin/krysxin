@@ -1,6 +1,7 @@
 ### Hi! I'm Qinxin Shu :smiley:
 
 [![krysxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=krysxin&theme=algolia&show_icons=true)](https://github.com/krysxin/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krysxin&theme=algolia&show_icons=true)](https://github.com/krysxin/github-readme-stats)
 
 <!--
