@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Qinxin Shu :smiley:
+
+[![krysxin's GitHub stats](https://github-readme-stats.vercel.app/api?username=krysxin)](https://github.com/krysxin/github-readme-stats)
 
 <!--
 **krysxin/krysxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
